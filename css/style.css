@@ -5,13 +5,11 @@
     font-weight: normal;
     list-style: none;
 }
-.body{
-    font-family: 'Roboto', sans-serif;
-}
 
 .container{
     max-width: 1250px;
     margin: 0 auto;
+    font-family: 'Roboto';
 }
 .flex{
     display: flex;
@@ -27,7 +25,7 @@
     gap: 62px;
 }
 
-.header_link{
+.header_li{
     font-size: 14px;
     line-height: 14px;
     color: #1C1C1C;
